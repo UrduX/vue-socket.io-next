@@ -1,0 +1,11 @@
+{
+  "name": "vue-socket.io-next",
+  "version": "1.0.0",
+  "main": "vue-socket.io-next",
+  "repository": "https://github.com/UrduX/vue-socket.io-next.git",
+  "author": "Eren BALCI",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^2.3.0"
+  }
+}
